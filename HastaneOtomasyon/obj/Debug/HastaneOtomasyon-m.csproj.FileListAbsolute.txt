@@ -1,0 +1,3 @@
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb

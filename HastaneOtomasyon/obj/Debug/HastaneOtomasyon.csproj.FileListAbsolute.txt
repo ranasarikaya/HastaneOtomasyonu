@@ -1,0 +1,234 @@
+c:\users\merve\documents\visual studio 2015\Projects\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+c:\users\merve\documents\visual studio 2015\Projects\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+c:\users\merve\documents\visual studio 2015\Projects\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmGiris.resources
+c:\users\merve\documents\visual studio 2015\Projects\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+c:\users\merve\documents\visual studio 2015\Projects\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.Cache
+c:\users\merve\documents\visual studio 2015\Projects\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+c:\users\merve\documents\visual studio 2015\Projects\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+c:\users\merve\documents\visual studio 2015\Projects\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+c:\users\merve\documents\visual studio 2015\Projects\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+c:\users\merve\documents\visual studio 2015\Projects\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmAnasayfa.resources
+D:\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+D:\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+D:\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\section-1\Desktop\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\section-1\Desktop\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\section-1\Desktop\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\section-1\Desktop\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\section-1\Desktop\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\section-1\Desktop\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\section-1\Desktop\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmAnasayfa.resources
+C:\Users\section-1\Desktop\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmGiris.resources
+C:\Users\section-1\Desktop\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\section-1\Desktop\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.Cache
+C:\Users\section-1\Desktop\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKayit.resources
+D:\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+D:\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+D:\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\section-1\Desktop\Hastane Otomasyonu\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\section-1\Desktop\Hastane Otomasyonu\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\section-1\Desktop\Hastane Otomasyonu\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\section-1\Desktop\Hastane Otomasyonu\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\section-1\Desktop\Hastane Otomasyonu\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\section-1\Desktop\Hastane Otomasyonu\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\section-1\Desktop\Hastane Otomasyonu\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmAnasayfa.resources
+C:\Users\section-1\Desktop\Hastane Otomasyonu\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmGiris.resources
+C:\Users\section-1\Desktop\Hastane Otomasyonu\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKayit.resources
+C:\Users\section-1\Desktop\Hastane Otomasyonu\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\section-1\Desktop\Hastane Otomasyonu\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.Cache
+D:\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+D:\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+D:\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+D:\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmAnasayfa.resources
+D:\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmGiris.resources
+D:\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKayit.resources
+D:\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmKlinikTanimlama.resources
+D:\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+D:\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.Cache
+D:\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHizmetTanimlama.resources
+D:\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmSGKTanimlama.resources
+D:\19.09.2016\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmTahlilTanimlama.resources
+F:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+F:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+F:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+F:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+F:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmAnasayfa.resources
+F:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmGiris.resources
+F:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKayit.resources
+F:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHizmetTanimlama.resources
+F:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmKlinikTanimlama.resources
+F:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmSGKTanimlama.resources
+F:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmTahlilTanimlama.resources
+F:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+F:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.Cache
+F:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+F:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+D:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+D:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+D:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+D:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+D:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+D:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+D:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmAnasayfa.resources
+D:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmGiris.resources
+D:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHizmetTanimlama.resources
+D:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmKlinikTanimlama.resources
+D:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmSGKTanimlama.resources
+D:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmTahlilTanimlama.resources
+D:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+D:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.Cache
+F:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmKlinikIslemleri.resources
+D:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmKlinikIslemleri.resources
+D:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmSGKIslemleri.resources
+D:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHizmetIslemleri.resources
+F:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHizmetIslemleri.resources
+F:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmSGKIslemleri.resources
+C:\Users\section-1\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\section-1\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\section-1\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\section-1\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\section-1\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\section-1\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\section-1\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmAnasayfa.resources
+C:\Users\section-1\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmGiris.resources
+C:\Users\section-1\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHizmetIslemleri.resources
+C:\Users\section-1\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHizmetTanimlama.resources
+C:\Users\section-1\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmKlinikIslemleri.resources
+C:\Users\section-1\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmKlinikTanimlama.resources
+C:\Users\section-1\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmMuayene.resources
+C:\Users\section-1\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmSGKIslemleri.resources
+C:\Users\section-1\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmSGKTanimlama.resources
+C:\Users\section-1\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmTahlilTanimlama.resources
+C:\Users\section-1\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\section-1\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.Cache
+D:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKabul.resources
+D:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKayitKarti.resources
+D:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKayitSorgulama.resources
+D:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmMuayene.resources
+D:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmRandevular.resources
+C:\Users\section-1\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKabul.resources
+C:\Users\section-1\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKayitKarti.resources
+C:\Users\section-1\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKayitSorgulama.resources
+C:\Users\section-1\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmRandevular.resources
+E:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+E:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+E:\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmAnasayfa.resources
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmGiris.resources
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKabul.resources
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKayitKarti.resources
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKayitSorgulama.resources
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHizmetIslemleri.resources
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHizmetTanimlama.resources
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmKlinikIslemleri.resources
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmKlinikTanimlama.resources
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmMuayene.resources
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmMuayeneListesi.resources
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmRandevular.resources
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmSGKIslemleri.resources
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmSGKTanimlama.resources
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmTahlilTanimlama.resources
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.Cache
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\wissen\Desktop\19.09.2016(çalıştığım hastane dosyası)\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmAnasayfa.resources
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmGiris.resources
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKabul.resources
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKayitKarti.resources
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKayitSorgulama.resources
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHizmetIslemleri.resources
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHizmetTanimlama.resources
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmKlinikIslemleri.resources
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmKlinikTanimlama.resources
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmMuayene.resources
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmMuayeneListesi.resources
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmRandevular.resources
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmSGKIslemleri.resources
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmSGKTanimlama.resources
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmTahlilTanimlama.resources
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\student2\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.Cache
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmAnasayfa.resources
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmGiris.resources
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKabul.resources
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKayitKarti.resources
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKayitSorgulama.resources
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHizmetIslemleri.resources
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHizmetTanimlama.resources
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmKlinikIslemleri.resources
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmKlinikTanimlama.resources
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmMuayene.resources
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmMuayeneListesi.resources
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmRandevular.resources
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmSGKIslemleri.resources
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmSGKTanimlama.resources
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmTahlilTanimlama.resources
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\rana\Desktop\Birleştirilmiş HASTANE\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.Cache
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmAnasayfa.resources
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmGiris.resources
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKabul.resources
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKayitKarti.resources
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKayitSorgulama.resources
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHizmetIslemleri.resources
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHizmetTanimlama.resources
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmKlinikIslemleri.resources
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmKlinikTanimlama.resources
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmMuayene.resources
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmMuayeneListesi.resources
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmRandevular.resources
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmSGKIslemleri.resources
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmSGKTanimlama.resources
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmTahlilTanimlama.resources
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.Cache
+C:\Users\MERVE\Downloads\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmRandevuIptal.resources
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmAnasayfa.resources
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmGiris.resources
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKabul.resources
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKayitKarti.resources
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHastaKayitSorgulama.resources
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHizmetIslemleri.resources
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmHizmetTanimlama.resources
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmKlinikIslemleri.resources
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmKlinikTanimlama.resources
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmMuayene.resources
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmMuayeneListesi.resources
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmPersoneller.resources
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmPersonelSorgulama.resources
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmRandevuIptal.resources
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmRandevular.resources
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmSGKIslemleri.resources
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmSGKTanimlama.resources
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.frmTahlilTanimlama.resources
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\section-1\Desktop\merve\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.Cache
